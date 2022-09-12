@@ -1,0 +1,13 @@
+on:     "0026--11-Sep-2022"
+copyright:   "2022"
+author:      "bryannaufal"
+name:        "Rahmat Bryan Naufal"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/bryannaufal/os222/"
+myloglink:   "/TXT/mylog.txt"
+tarballlink: "https://os.vlsm.org/Log/bryannaufal.tar.bz2.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
