@@ -16,3 +16,15 @@ ZCZC W01 60 L27 Exploring putty, winscp
 ZCZC W01 30 L06 GSGS related
 ZCZC W01 30 L04 GHP related
 ZCZC W01 30 L05 Preparing for Quiz
+ZCZC W02 60 L32 YouTube: watching OS related topics, etc.
+ZCZC W02 100 L11 Assignment #01
+ZCZC W02 30 L12 Assignment #02
+ZCZC W02 10 L13 Assignment #03
+ZCZC W02 60 L14 Assignment #04
+ZCZC W02 60 L15 Assignment #05
+ZCZC W02 20 L16 Assignment #06
+ZCZC W02 10 L01 checks SCELE/Discord announcement
+ZCZC W02 200 L02 routine class via zoom
+ZCZC W02 60 L05 Preparing for Quiz
+ZCZC W02 3 L05 OS quiz
+ZCZC W02 20 L41 updating TXT/mylog.txt
