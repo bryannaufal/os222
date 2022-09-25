@@ -28,3 +28,12 @@ ZCZC W02 200 L02 routine class via zoom
 ZCZC W02 60 L05 Preparing for Quiz
 ZCZC W02 3 L05 OS quiz
 ZCZC W02 20 L41 updating TXT/mylog.txt
+ZCZC W03 100 L02 Routine class via zoom
+ZCZC W03 100 L02 Routine class in Fasilkom
+ZCZC W03 120 L06 Exploring about SED, regex, grep, awk
+ZCZC W03 120 L21 Trying SED, regex, grep, awk
+ZCZC W03 50 L05 Preparing for quiz and quiz it self
+ZCZC W03 10 L08 OS Chat related with AsDos
+ZCZC W03 30 L03 Updating, links.md, myrank.txt, mylog.txt, etc.
+ZCZC W03 100 L06 Reading chapter 13 14 15
+ZCZC W03 100 L09 Doing week-3 assingment
