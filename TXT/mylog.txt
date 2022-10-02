@@ -37,3 +37,12 @@ ZCZC W03 10 L08 OS Chat related with AsDos
 ZCZC W03 30 L03 Updating, links.md, myrank.txt, mylog.txt, etc.
 ZCZC W03 100 L06 Reading chapter 13 14 15
 ZCZC W03 100 L09 Doing week-3 assingment
+ZCZC W04 100 L02 Routine class via zoom
+ZCZC W04 100 L02 Routine class in Fasilkom
+ZCZC W04 30 L03 Updating links.md, myrank.txt, mylog.txt, etc.
+ZCZC W04 120 L06 Reading silberschatz chapter 9
+ZCZC W04 150 L07 Trying Demo
+ZCZC W04 50 L05 Preparing for quiz and quiz it self
+ZCZC W04 60 Scele Related
+ZCZC W04 20 GitHub related, including commit, push, pull
+
