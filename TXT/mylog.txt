@@ -53,3 +53,11 @@ ZCZC W05 60 L03 Updating links.md, myrank.txt, mylog.txt, etc.
 ZCZC W05 120 L06 Reading silberschatzq about virtual memory
 ZCZC W05 20 L03 GitHub related, including commit, push, pull
 ZCZC W05 90 L09 Doing week-5 assignment
+ZCZC W06 100 L02 Routine class in Fasilkom
+ZCZC W06 100 L02 Routine class in Fasilkom
+ZCZC W06 150 L07 Trying Demo
+ZCZC W06 60 L01 Scele Related
+ZCZC W06 60 L03 Updating links.md, myrank.txt, mylog.txt, etc.
+ZCZC W06 120 L06 Reading silberschatzq
+ZCZC W06 20 L03 GitHub related, including commit, push, pull
+ZCZC W06 90 L09 Doing week-6 assignment
