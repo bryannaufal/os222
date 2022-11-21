@@ -44,6 +44,36 @@ The link above explains about C Pointers and we can also try to code there :)
 2. [What is virtual memory?](https://youtu.be/2quKyPnUShQ)
 A video that explains about virtual memory.
 
+## Week 06
+1. [Process vs Thread – Difference Between Them](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+This source helped me in differentiating between processes and threads, and also how threads solve problems created while using processes. The end of the story is threads are the way to go.
+
+2. [Concurrency vs. Parallelism — A brief view](https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350)<br>
+This article gives a good overview on the differences between concurrency and parallelism, using easy-to-understand analogies to simplify the topic.
+
+3. [fork() — Create a new process](https://www.ibm.com/docs/en/zos/2.3.0?topic=functions-fork-create-new-process)<br>
+This documentation effectively explains what the fork() command does, providing code examples and explanations to effectively explain the topic.
+
+4. [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/)<br>
+This source also explains the concept of forking, providing good code examples and diagrams to guide learners in learning the topic.
+
+## Week 07
+1. [Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)
+Learn a lot about Synchronization in this amazing video.
+
+2. [Deadlock](https://www.youtube.com/watch?v=FVmwvZNQgt0)
+Simple and clear explanation
+
+3. [Recording W08 SOSI 21/22](https://www.youtube.com/watch?v=Z5D3z3AzXII)
+Clear Explanation from Mr. Muhammad Anwar about Threads, Syncrhonization, Deadlock in Indonesian.
+
+## Week 08
+1. [Linux From Scratch](https://www.linuxfromscratch.org/)
+For yall who’s still wondering what is linux from scratch
+
+2. [Faster Download for LFS](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/)
+Low speed while downloading linux 5.1.9 while doin assignment? just download manually from this links, better speed better life lol.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
