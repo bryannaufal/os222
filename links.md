@@ -74,6 +74,13 @@ For yall who’s still wondering what is linux from scratch
 2. [Faster Download for LFS](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/)
 Low speed while downloading linux 5.1.9 while doin assignment? just download manually from this links, better speed better life lol.
 
+## Week 09
+1. [Mass-Storage Systems](https://www.cs.odu.edu/~price/cs471/public_html/spring17/lectures/MassStorage.htm)
+The link above from CS Old Dominion University notes provides a good overview and explanation of mass storage structures and the different types of disk scheduling algorithms. It also goes into selecting which algorithm to choose and briefly about RAID.
+
+2. [Mass-Storage Structure UIC Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
+Another uni course note, but these seriously help me out. UIC Course Notes as always summarize Silbershcatz' OSC10 very concisely and this link goes into muchmore depth on RAID (Redundant Array of Inexpensive Disks) Structure than the previous one. Additionally this link explains performance issues of different mass storage structures.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

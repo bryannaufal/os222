@@ -77,3 +77,11 @@ ZCZC W08 60 L03 Updating links.md, myrank.txt, mylog.txt, etc.
 ZCZC W08 120 L06 Reading silberschatzq
 ZCZC W08 20 L03 GitHub related, including commit, push, pull
 ZCZC W08 90 L09 Doing week-8 assignment
+ZCZC W09 100 L02 Routine class in Fasilkom
+ZCZC W09 100 L02 Routine class in Fasilkom
+ZCZC W09 150 L07 Trying Demo
+ZCZC W09 120 L01 Scele Related
+ZCZC W09 60 L03 Updating links.md, myrank.txt, mylog.txt, etc.
+ZCZC W09 150 L06 Reading silberschatzq
+ZCZC W09 20 L03 GitHub related, including commit, push, pull
+ZCZC W09 150 L09 Doing week-8 assignment
