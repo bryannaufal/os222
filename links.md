@@ -81,6 +81,10 @@ The link above from CS Old Dominion University notes provides a good overview an
 2. [Mass-Storage Structure UIC Course Notes](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)
 Another uni course note, but these seriously help me out. UIC Course Notes as always summarize Silbershcatz' OSC10 very concisely and this link goes into muchmore depth on RAID (Redundant Array of Inexpensive Disks) Structure than the previous one. Additionally this link explains performance issues of different mass storage structures.
 
+## Week 10
+1. [BLFS Stable Book](https://www.linuxfromscratch.org/blfs/view/stable-systemd/)
+Got hooked with LFS? Why not try out BLFS? It is basically an extension to LFS book for more in depth configuration.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
